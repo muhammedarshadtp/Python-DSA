@@ -1,4 +1,6 @@
 
+
+
 def Binary_Search(list,target):
     l=0
     u=len(list)-1
